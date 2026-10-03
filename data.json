@@ -1,0 +1,124 @@
+{
+  "brand": "Pixlo",
+  "accent": "#7fe3ff",
+  "modelUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260929_212926_92423081-b0e4-4f5a-b650-14af6c05c058.glb",
+  "nav": [
+    "Home",
+    "Services",
+    "Contact Us"
+  ],
+  "hero": {
+    "lines": [
+      "Shoot",
+      "Design",
+      "Launch"
+    ],
+    "tagline": "We Make Your|Brand Look",
+    "taglineBold": "Professional.",
+    "cta": "Get a Quote",
+    "ctaLink": "#contact",
+    "count": "04"
+  },
+  "whatsapp": "91XXXXXXXXXX",
+  "instagram": "yourhandle",
+  "stats": [
+    [
+      "₹25",
+      "Photos from"
+    ],
+    [
+      "24h",
+      "Quick delivery"
+    ],
+    [
+      "₹85",
+      "Logos from"
+    ],
+    [
+      "₹300",
+      "Websites from"
+    ]
+  ],
+  "services": [
+    {
+      "icon": "🌐",
+      "title": "Website design",
+      "rows": [
+        [
+          "Normal · 3–4 days",
+          300
+        ],
+        [
+          "3D · 5–7 days",
+          450
+        ]
+      ]
+    },
+    {
+      "icon": "📷",
+      "title": "Product photography",
+      "rows": [
+        [
+          "1 photo · 1 day",
+          25
+        ],
+        [
+          "3 photos · 1–2 days",
+          60
+        ],
+        [
+          "5 photos · 2–3 days",
+          100
+        ]
+      ]
+    },
+    {
+      "icon": "✨",
+      "title": "Professional photography",
+      "rows": [
+        [
+          "1 photo · same day",
+          35
+        ],
+        [
+          "3 photos · same day",
+          80
+        ],
+        [
+          "5 photos · same day",
+          130
+        ]
+      ]
+    },
+    {
+      "icon": "🎨",
+      "title": "Logo design",
+      "rows": [
+        [
+          "Normal · 1 day",
+          85
+        ],
+        [
+          "Concept · 1–3 days",
+          100
+        ]
+      ]
+    }
+  ],
+  "work": [
+    "images/work-1.jpg",
+    "images/work-2.jpg",
+    "images/work-3.jpg",
+    "images/work-4.jpg",
+    "images/work-5.jpg",
+    "images/work-6.jpg",
+    "images/work-7.jpg"
+  ],
+  "logo": "",
+  "email": "",
+  "adminHash": "f242e5843f022c746146b699cddbcb9cd42e0310b885bdfba87bcfe2392f7c63",
+  "chat": {
+    "enabled": "0",
+    "dbUrl": ""
+  }
+}
